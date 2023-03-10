@@ -1,0 +1,71 @@
+/*CONTAINER, PÁGINA PRINCIPAL*/
+
+#bloco{
+    background-color: aliceblue;
+    max-width: 800px;
+    min-width: 280px;
+    padding: 30px;
+    margin: 0px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  }
+
+  #corpo{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+  }
+
+  h1{
+    color: #000000;
+    margin: 0px;
+}
+
+h2{
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 10px;
+}
+
+#subtitulo{
+    font-size: 18px;
+}
+
+.fotos{
+    max-width: 80%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    margin-top: 10px;
+}
+
+.centralizar{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.legenda{
+    font-size: 15px;
+    color: gray;
+}
+
+#cursos{
+    max-width: 100%;
+    background-color: rgb(255, 241, 222);
+    color: rgb(116, 109, 102);
+    font-size: 16px;
+    margin: 0px auto;
+}
+
+#cursos a{
+    color: black;
+}
+
+#cursos a:hover {
+    color: #ff0000;
+  }
+
