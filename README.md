@@ -10,7 +10,7 @@
 
 ## Sumário
 
-* [Descrição](#descrição-do-projeto)
+* [Descrição](#descrição)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Desafios](#desafios)
 * [Deploy](#deploy)
@@ -18,9 +18,6 @@
 * [Como usar o projeto](#como-usar-o-projeto)
 * [Créditos](#créditos)
 * [Licença](#licença)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-
-* [Conclusão](#conclusão)
     
 ## Descrição
     
@@ -47,7 +44,7 @@
 <p> No terminal, clone o projeto: </p>
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/jessicaoka/trabalhoFinalWEB.git
 ```
 
 <p> Depois de clonado, selecione a opção "Open with Live Server" </p>
