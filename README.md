@@ -61,4 +61,4 @@ git clone https://github.com/jessicaoka/trabalhoFinalWEB.git
 
 ## Licença
 
-Este projeto esta sobe a licença [ MIT ](/LICENSE).
+Este projeto esta sobe a licença [ MIT ](/LICENÇA).
