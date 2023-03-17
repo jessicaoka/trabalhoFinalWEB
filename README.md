@@ -64,4 +64,4 @@ git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
 
 ## Licença
 
-Este projeto esta sobe a licença [ MIT ](./LICENSE).
+Este projeto esta sobe a licença [ MIT ](/LICENSE).
