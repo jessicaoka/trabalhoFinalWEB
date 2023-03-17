@@ -16,8 +16,8 @@
 * [Deploy](#deploy)
 * [Como executar o projeto](#como-executar-o-projeto)
 * [Como usar o projeto](#como-usar-o-projeto)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Créditos](#créditos)
+* [Licença](#licença)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 * [Conclusão](#conclusão)
@@ -58,4 +58,10 @@ git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
 
 ## Créditos
 
-<p>  </p>
+<p> Fontes de referências utilizadas:  </p>
+
+* https://documento.ifnmg.edu.br/action.php?kt_path_info=ktcore.actions.document.view&fDocumentId=42410
+
+## Licença
+
+Este projeto esta sobe a licença [ MIT ](./LICENSE).
