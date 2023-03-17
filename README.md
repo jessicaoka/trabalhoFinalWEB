@@ -13,8 +13,8 @@
 * [Descrição](#descrição-do-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Desafios](#desafios)
-* [Link da página](#link-da-página)
-* [Status do Projeto](#status-do-Projeto)
+* [Deploy](#deploy)
+* [Como instalar e executar o projeto](#como-instalar-e-executar-o-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
@@ -38,7 +38,14 @@
 
 <p> Desafios que a nossa equipe encontrou no desenvolvimento: dificuldade com a utilização da plataforma github... </p>
 
-## Link da página
+## Deploy
 
 <p> Link da nossa página publicada no Netlify: https://exemplo.com.br </p>
 
+## Como instalar e executar o projeto
+
+<p> No terminal, clone o projeto: </p>
+
+```
+git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+```
