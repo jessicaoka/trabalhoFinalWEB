@@ -33,7 +33,7 @@
 
 ## Desafios
 
-<p> Desafios que a nossa equipe encontrou no desenvolvimento: dificuldade com a utilização da plataforma github... </p>
+<p> Desafios que a nossa equipe encontrou no desenvolvimento: dificuldade com a utilização da plataforma github, usar o flexbox, posicionar as divs... </p>
 
 ## Deploy
 
