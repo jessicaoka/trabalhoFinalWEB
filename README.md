@@ -12,12 +12,14 @@
 
 * [Descrição](#descrição-do-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Desafios](#desafios)
+* [Link da página](#link-da-página)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
+
 * [Conclusão](#conclusão)
     
 ## Descrição
@@ -31,3 +33,12 @@
 - ``Java Script 2022``
 - ``CSS 3``
 - ``HTML 5``
+
+## Desafios
+
+<p> Desafios que a nossa equipe encontrou no desenvolvimento: dificuldade com a utilização da plataforma github... </p>
+
+## Link da página
+
+<p> Link da nossa página publicada no Netlify: https://exemplo.com.br </p>
+
