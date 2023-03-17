@@ -14,8 +14,8 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Desafios](#desafios)
 * [Deploy](#deploy)
-* [Como instalar e executar o projeto](#como-instalar-e-executar-o-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Como executar o projeto](#como-executar-o-projeto)
+* [Como usar o projeto](#como-usar-o-projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
@@ -42,10 +42,20 @@
 
 <p> Link da nossa página publicada no Netlify: https://exemplo.com.br </p>
 
-## Como instalar e executar o projeto
+## Como executar o projeto
 
 <p> No terminal, clone o projeto: </p>
 
 ```
 git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
 ```
+
+<p> Depois de clonado, selecione a opção "Open with Live Server" </p>
+
+## Como usar o projeto
+
+<p> Você pode usar o projeto visitando suas páginas através da barra de navegação e do rodapé. </p>
+
+## Créditos
+
+<p>  </p>
