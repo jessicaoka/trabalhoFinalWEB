@@ -21,7 +21,7 @@
     
 ## Descrição
     
-<p> Projeto em desenvolvimento para a disciplina de Desenvolvimento de Sistemas WEB do curso Técnico em Informática Integrado. O De Aluno Para Aluno é um site que busca informar sobre o curso Técnico em Informática do IFNMG - Campus Salinas aos futuros alunos da instiruição que têm interesse em ingressar no curso.</p>
+<p align="justify"> Projeto em desenvolvimento para a disciplina de Desenvolvimento de Sistemas WEB do curso Técnico em Informática Integrado. O De Aluno Para Aluno é um site que busca informar sobre o curso Técnico em Informática do IFNMG - Campus Salinas aos futuros alunos da instiruição que têm interesse em ingressar no curso.</p>
 
 <p> O site permitirá que os futuros alunos obtenham informações a respeito do curso e da instituição como grade curricular, estágio obrigatório, internato, estrutura do campus e muito mais, para que possam refletir com clareza se é esse o caminho que desejam seguir. </p>
 
