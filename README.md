@@ -58,6 +58,9 @@ git clone https://github.com/jessicaoka/trabalhoFinalWEB.git
 <p> Fontes de referências utilizadas:  </p>
 
 * https://documento.ifnmg.edu.br/action.php?kt_path_info=ktcore.actions.document.view&fDocumentId=42410
+* https://ifnmg.edu.br/mais-noticias-portal/612-portal-noticias-2022/30542-inscricoes-para-processo-seletivo-de-cursos-tecnicos-do-ifnmg-terminam-nesta-terca-dia-8-11-as-17-horas
+* https://ifnmg.edu.br/mais-noticias-portal/612-portal-noticias-2022/30385-1-processo-seletivo-2023-para-cursos-tecnicos-confira-as-respostas-as-perguntas-mais-frequentes
+* https://ifnmg.edu.br/salinas
 
 ## Licença
 
