@@ -20,13 +20,17 @@
     background-color: #dadada;
     overflow-x: hidden;
   }
-  
+/*  
   .logo {
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
   }
-  
+*/
+
+.logo{
+  box-shadow: #23232e;
+}
   nav {
     display: flex;
     justify-content: space-around;
@@ -172,4 +176,3 @@ h3{
     margin-top: 10px;
 }
 }
-
