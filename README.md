@@ -1,7 +1,7 @@
 <h1 align="center"> De Aluno Para Aluno </h1>
 
 <p align="center">
-  <img width="250" height="250" alt="DeAlunoParaAluno" src="https://user-images.githubusercontent.com/108373863/225622400-fc05f787-526b-4fe2-94d1-dddd0f3e8827.png">
+  <img width="300" height="300" alt="DeAlunoParaAluno" src="https://user-images.githubusercontent.com/108373863/225622400-fc05f787-526b-4fe2-94d1-dddd0f3e8827.png">
 </p>
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
