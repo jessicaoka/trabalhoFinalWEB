@@ -37,7 +37,9 @@
 
 ## Deploy
 
+```
 <p> Link da nossa página publicada no Netlify: de-aluno-para-aluno.netlify.app</p>
+```
 
 ## Como executar o projeto
 
