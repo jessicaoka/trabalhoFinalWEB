@@ -4,9 +4,9 @@
   <img width="250" height="250" alt="DeAlunoParaAluno" src="https://user-images.githubusercontent.com/108373863/225622400-fc05f787-526b-4fe2-94d1-dddd0f3e8827.png">
 </p>
 
-<p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/031dbe48-3510-455c-93cc-b765d80083aa/deploy-status)](https://app.netlify.com/sites/heroic-vacherin-78cf66/deploys)
 
 ## Sumário
 
