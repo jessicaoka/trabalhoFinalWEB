@@ -37,7 +37,7 @@
 
 ## Deploy
 
-<p> Link da nossa página publicada no Netlify: https://heroic-vacherin-78cf66.netlify.app/ </p>
+<p> Link da nossa página publicada no Netlify: de-aluno-para-aluno.netlify.app</p>
 
 ## Como executar o projeto
 
